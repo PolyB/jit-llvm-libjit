@@ -10,6 +10,7 @@ The purpose of this repository is to compare LLVM and libjit by developping a Br
 ### Build using cmake
 `$ mkdir build`
 `$ cd !^`
+`$ cmake ..`
 `$ make`
 
 ## Usage
